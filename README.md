@@ -5,10 +5,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m .Net Developer🤔
+- 🔭 &nbsp; I’m a Full Stack Developer🤔
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Back-end developer and Front-end web developer.
+- 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.
 - ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
